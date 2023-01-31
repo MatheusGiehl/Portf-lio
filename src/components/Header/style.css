@@ -1,0 +1,19 @@
+.header {
+    background-color: #331B52;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line {
+    background-color: #5CFFF5;
+    height: 5px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+.name {
+    color: #DDD;
+    font-family: 'Oswald', sans-serif;
+}
